@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Harshit Srivastava | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Harshit Srivastava</h1>
+  <p>Data Analyst | Software Engineer</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am a B.Tech student at JIIT with experience in Data Analysis, 
+    Visualization, and CI/CD. Skilled in Python, SQL, and Power BI.
+  </p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <p>Python, C++, SQL, Power BI, Tableau, Excel</p>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <ul>
+    <li>Zomato Data Analysis</li>
+    <li>Sales Dashboard</li>
+    <li>Sudoku Solver (C++)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Internship</h2>
+  <p>Data Analyst Intern at Ravviolabs Technologies</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: itsmeharshit777@gmail.com</p>
+</section>
+
+<button onclick="showMsg()">Hire Me</button>
+
+<script src="script.js"></script>
+</body>
+</html>
